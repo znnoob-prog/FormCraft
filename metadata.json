@@ -1,0 +1,6 @@
+{
+  "name": "FormCraft — Google Forms Studio",
+  "description": "An improved workspace for designing Google Forms, previewing respondent flows, and analyzing responses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
